@@ -1,6 +1,12 @@
 #ifndef HW2_ENTITIES_HPP
 #define HW2_ENTITIES_HPP
 
+/*
+Entities.hpp
+Author: Jason Nguyen
+Date: April 14 2021
+*/
+
 #include <string>
 #include <vector>
 
