@@ -1,0 +1,14 @@
+Please enter a name:
+Let the adventure begin, Peter!
+
+Enter command (or help):
+Opened inventory.
+
+Enter command (or help):
+Enter item number:
+Item equipped.
+
+Enter command (or help):
+Item 1: Old sack, Armor, defense 1
+
+Enter command (or help):

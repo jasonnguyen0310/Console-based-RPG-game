@@ -1,0 +1,7 @@
+Please enter a name:
+Let the adventure begin, Peter!
+
+Enter command (or help):
+Available commands: exit, explore, health, help, inventory
+
+Enter command (or help):

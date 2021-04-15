@@ -1,0 +1,23 @@
+Please enter a name:
+Let the adventure begin, Peter!
+
+Enter command (or help):
+You wander through the wilderness until you suddenly encounter an enemy.
+
+Enter command (or help):
+You both attack. You dealt 3 damage and received 26-1=25 damage.
+
+Enter command (or help):
+You both attack. You dealt 3 damage and received 26-1=25 damage.
+
+Enter command (or help):
+You defeated the enemy!
+
+Enter command (or help):
+Opened inventory.
+
+Enter command (or help):
+Item 1: Magic robe, Armor, defense 25
+Item 2: Dragonscale armor, Armor, defense 200
+
+Enter command (or help):

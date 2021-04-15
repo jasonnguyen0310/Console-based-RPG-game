@@ -1,0 +1,7 @@
+Please enter a name:
+Let the adventure begin, Peter!
+
+Enter command (or help):
+Health: 100 / 100.
+
+Enter command (or help):

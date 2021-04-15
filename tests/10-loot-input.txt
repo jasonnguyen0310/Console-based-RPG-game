@@ -1,0 +1,8 @@
+Peter
+explore
+attack
+attack
+attack
+inventory
+list
+exit

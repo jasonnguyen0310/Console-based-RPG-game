@@ -1,0 +1,7 @@
+Peter
+explore
+attack
+attack
+attack
+help
+exit

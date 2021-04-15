@@ -1,0 +1,19 @@
+Please enter a name:
+Let the adventure begin, Peter!
+
+Enter command (or help):
+You wander through the wilderness until you suddenly encounter an enemy.
+
+Enter command (or help):
+You both attack. You dealt 3 damage and received 26-1=25 damage.
+
+Enter command (or help):
+You both attack. You dealt 3 damage and received 26-1=25 damage.
+
+Enter command (or help):
+You defeated the enemy!
+
+Enter command (or help):
+Available commands: exit, explore, health, help, inventory
+
+Enter command (or help):

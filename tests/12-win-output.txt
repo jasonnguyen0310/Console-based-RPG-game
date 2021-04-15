@@ -1,0 +1,65 @@
+Please enter a name:
+Let the adventure begin, Peter!
+
+Enter command (or help):
+Opened inventory.
+
+Enter command (or help):
+Enter item number:
+Item equipped.
+
+Enter command (or help):
+Closed inventory.
+
+Enter command (or help):
+You wander through the wilderness until you suddenly encounter an enemy.
+
+Enter command (or help):
+You both attack. You dealt 3 damage and received 26-25=1 damage.
+
+Enter command (or help):
+You both attack. You dealt 3 damage and received 26-25=1 damage.
+
+Enter command (or help):
+You defeated the enemy!
+
+Enter command (or help):
+Opened inventory.
+
+Enter command (or help):
+Enter item number:
+Item equipped.
+
+Enter command (or help):
+Closed inventory.
+
+Enter command (or help):
+You wander through the wilderness until you suddenly encounter an enemy.
+
+Enter command (or help):
+You both attack. You dealt 3 damage and received 29-200=0 damage.
+
+Enter command (or help):
+You both attack. You dealt 3 damage and received 29-200=0 damage.
+
+Enter command (or help):
+You defeated the enemy!
+
+Enter command (or help):
+Opened inventory.
+
+Enter command (or help):
+Enter item number:
+Item equipped.
+
+Enter command (or help):
+Closed inventory.
+
+Enter command (or help):
+You wander through the wilderness until you suddenly encounter an enemy.
+
+Enter command (or help):
+You both attack. You dealt 400 damage and received 220-200=20 damage.
+
+Enter command (or help):
+You won!

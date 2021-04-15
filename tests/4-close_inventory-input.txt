@@ -1,0 +1,6 @@
+Peter
+inventory
+help
+close
+help
+exit

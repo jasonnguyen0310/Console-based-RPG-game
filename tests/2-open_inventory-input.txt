@@ -1,0 +1,4 @@
+Peter
+inventory
+help
+exit

@@ -1,0 +1,6 @@
+Peter
+inventory
+equip
+1
+list
+exit
