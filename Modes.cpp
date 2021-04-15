@@ -1,3 +1,10 @@
+/*
+Modes.cpp
+Author: Jason Nguyen
+Date: April 14 2021
+*/
+
+
 #include "Modes.hpp"
 #include <algorithm>
 #include <iostream>

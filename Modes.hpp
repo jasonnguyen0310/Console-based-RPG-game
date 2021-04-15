@@ -1,6 +1,12 @@
 #ifndef HW2_MODES_HPP
 #define HW2_MODES_HPP
 
+/*
+Modes.hpp
+Author: Jason Nguyen
+Date: April 14 2021
+*/
+
 #include "State.hpp"
 #include <string>
 #include <vector>
@@ -22,7 +28,14 @@ class Mode
     virtual ~Mode() = default;
 
   private:
-    // add methods for commands health, inventory, help and exit.
+    //prints player health
+    virtual void health() = 0;
+    //switches to inventory mode
+    virtual void inventory() = 0;
+    //prints currently available commands
+    virtual void help() = 0;
+    //exits the game
+    virtual void exit() = 0;
 };
 
 class ExplorationMode : public Mode
@@ -31,7 +44,8 @@ class ExplorationMode : public Mode
     static const ModeType T;
 
   private:
-    // add methods for command explore.
+    //navigates to the next encounter and switches into fighting mode
+    void explore();
 };
 
 class InventoryMode : public Mode
@@ -40,7 +54,12 @@ class InventoryMode : public Mode
     static const ModeType T;
 
   private:
-    // add methods for commands list, equip and close.
+    //list items in inventory
+    void list(const State &state);
+    //equips a weapon or armor item from the inventory. If the character is already wearing a weapon or armor, put it in the inventory before equipping the new item.
+    void equip(const State &state);
+    //return to explore mode
+    void close();
 };
 
 class FightingMode : public Mode
@@ -49,7 +68,8 @@ class FightingMode : public Mode
     static const ModeType T;
 
   private:
-    // add methods for commands info and attack.
+    void info(const State &state);
+    void attack(const State &state);
 };
 
 #endif
