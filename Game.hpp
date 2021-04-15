@@ -1,6 +1,12 @@
 #ifndef HW2_GAME_HPP
 #define HW2_GAME_HPP
 
+/*
+Game.hpp
+Author: Jason Nguyen
+Date: April 14 2021
+*/
+
 #include "Modes.hpp"
 #include "State.hpp"
 #include <memory>
