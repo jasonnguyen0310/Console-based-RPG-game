@@ -10,7 +10,3 @@ Role Playing Games all start from somewhere and what better to understand Object
 ## Entities and Game States
 All entity objects are confined into one game state, where the user can make decisions based on their character. Class methods and polymorphism allow users to ignore the low-level details of implementation and focus on the individual methods that work together like a well-oiled machine to create a holistic game experience.
 
-## How to Run Locally
-
-Clone the git
-[]
