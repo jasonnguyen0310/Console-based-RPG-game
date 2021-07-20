@@ -9,10 +9,10 @@ To win the game, the player must defeat enemies in a series of encounters. Every
 
 In order for us to be able to grade reliably, there won't be any randomness in the game. The starter code contains some initial state and encounters that our tests are based on. Please do not modify them or restore them before submitting.
 
-## Object Oriented Programming
+## Object Oriented Programming (OOP)
 RPGs all start from somewhere and what better to understand Object Oriented Programming then developing a RPG game! This project focuses on understanding the concepts of objects, class methods, class variables, and polymorphism. 
 
-## Entities and Game States
+## Game State and Entities
 All entity objects are confined into one game state, where the user can make decisions based on their character. Class methods and polymorphism allow users to ignore the low-level details of implementation and focus on the individual methods that work together like a well-oiled machine to create a holistic game experience.
 
 ## Base mode commands
