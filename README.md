@@ -18,7 +18,10 @@ All entity objects are confined into one game state, where the user can make dec
 ## Base mode commands
 The commands are always available:
 
-health: prints player health  \ninventory: switches to inventory mode  help: prints currently available commands  exit: exits the game
+health: prints player health<br />
+inventory: switches to inventory mode<br />
+help: prints currently available commands<br />
+exit: exits the game
 
 ## Exploration mode commands
 This is the default mode after starting the game.
@@ -26,9 +29,10 @@ This is the default mode after starting the game.
 explore: navigates to the next encounter and switches into fighting mode
 
 ## Inventory mode commands
-list: list items in inventory
-equip: equips a weapon or armor item from the inventory. If the character is already wearing a weapon or armor, put it in the inventory before equipping the new item.
-close: return to explore mode
-Fighting mode commands
-info: view enemy health
+list: list items in inventory<br />
+equip: equips a weapon or armor item from the inventory. If the character is already wearing a weapon or armor, put it in the inventory before equipping the new item.<br />
+close: return to explore mode<br />
+
+## Fighting mode commands
+info: view enemy health<br />
 attack: attacks the enemy. This reduces the enemy's hitpoints by the damage of your weapon. The character's hitpoints get reduced by the damage of the enemy minus the defense of the currently worn armor (this can't be negative of course). If the character's hitpoints go below zero, you loose. If the enemy's hitpoints go below zero, you win this encounter and are rewarded with the loot. If this was the last encounter, you win the game and the game ends.
