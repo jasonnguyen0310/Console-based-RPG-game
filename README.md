@@ -18,7 +18,7 @@ All entity objects are confined into one game state, where the user can make dec
 ## Base mode commands
 The commands are always available:
 
-health: prints player health  inventory: switches to inventory mode  help: prints currently available commands  exit: exits the game
+health: prints player health  \ninventory: switches to inventory mode  help: prints currently available commands  exit: exits the game
 
 ## Exploration mode commands
 This is the default mode after starting the game.
